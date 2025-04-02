@@ -32,7 +32,7 @@ Rendu_PFE/
    ```bash
    python main.py
    ```
-   - Celui-ci génère ou charge un graphe, puis appelle différentes méthodes (baseline, Monte Carlo, Q-Learning) pour évaluer leurs performances.
+   - Celui-ci génère plusieurs graphe avec différents paramètres ( temps, densité, nombre de noeuds ), puis appelle différentes méthodes (baseline, Monte Carlo, Q-Learning) pour évaluer leurs performances.
 
 3. **Analyser les résultats**  
    - Un fichier ou une sortie console mentionnera le chemin trouvé, son coût, et le temps d’exécution.  
