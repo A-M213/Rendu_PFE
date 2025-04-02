@@ -62,5 +62,4 @@ Rendu_PFE/
 - **Abdel-Malek EMZIANE**  
 - **Loucas TERCHANI**
 
-*(Projet de fin d'études réalisé en partenariat avec CY Cergy Paris Université et Huawei Technologies France.)*
-```
+*(Projet de fin d'études réalisé en partenariat avec CY Cergy Paris Université et Huawei Technologies France, supervisé par Sebastien Martin et Youcef Magnouche)*
