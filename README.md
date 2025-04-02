@@ -8,7 +8,10 @@ Ce dépôt contient l'implémentation d'un ensemble de méthodes visant à réso
 Rendu_PFE/
 ├─ baseline.py            <- Méthode témoin (baseline) 
 ├─ blackBox.exe           <- Module externe
-├─ blackbox_interface.py  <- Fonctions pour interagir avec blackBox.exe 
+├─ blackbox_interface.py  <- Fonctions pour interagir avec blackBox.exe
+├─ courbe_convergence_100_noeuds.png <- Exemple de courbe de resultats
+├─ courbe_convergence_200_noeuds.png <- Exemple de courbe de resultats
+├─ courbe_convergence_50_noeuds.png <-Exemple de courbe de resultats
 ├─ execution_results_test.txt <- Exemple de résultats d’exécution
 ├─ graph_utils.py         <- Fonctions utilitaires pour générer ou manipuler un graphe
 ├─ main.py                <- Script principal (exemple d’exécution)
