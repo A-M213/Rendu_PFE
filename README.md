@@ -35,8 +35,8 @@ Rendu_PFE/
    - Celui-ci génère plusieurs graphe avec différents paramètres ( temps, densité, nombre de noeuds ), puis appelle différentes méthodes (baseline, Monte Carlo, Q-Learning) pour évaluer leurs performances.
 
 3. **Analyser les résultats**  
-   - Un fichier ou une sortie console mentionnera le chemin trouvé, son coût, et le temps d’exécution.  
    - Le fichier `execution_results_test.txt` peut contenir un exemple de trace ou de résultats.
+   - Des courbes de convergences sont générés sur chaque ensemble de paramètres différent. 
 
 ## Méthodes Implémentées
 
