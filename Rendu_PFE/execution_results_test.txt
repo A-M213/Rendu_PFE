@@ -1,126 +1,125 @@
 === Résultats pour Graphe=50, Densité=0.3, Duration=20 ===
-Baseline : Coût moyen 0.5454
-Monte Carlo : Coût moyen 0.4300
-Monte Carlo Exploration : Coût moyen 0.4300
-Monte Carlo Nested Rollouts : Coût moyen 0.4800
-Q-Learning : Coût moyen 0.4600
+Baseline : Coût moyen 0.5452
+Monte Carlo : Coût moyen 0.4322
+Monte Carlo Exploration : Coût moyen 0.4310
+Monte Carlo Nested Rollouts : Coût moyen 0.4823
+Q-Learning : Coût moyen 0.4643
 
 === Résultats pour Graphe=50, Densité=0.3, Duration=50 ===
-Baseline : Coût moyen 0.8216
-Monte Carlo : Coût moyen 0.3300
-Monte Carlo Exploration : Coût moyen 0.3100
-Monte Carlo Nested Rollouts : Coût moyen 0.2100
-Q-Learning : Coût moyen 0.4000
+Baseline : Coût moyen 0.8233
+Monte Carlo : Coût moyen 0.3334
+Monte Carlo Exploration : Coût moyen 0.3183
+Monte Carlo Nested Rollouts : Coût moyen 0.2183
+Q-Learning : Coût moyen 0.4043
 
 === Résultats pour Graphe=50, Densité=0.3, Duration=100 ===
-Baseline : Coût moyen 0.7157
-Monte Carlo : Coût moyen 0.2200
-Monte Carlo Exploration : Coût moyen 0.2400
-Monte Carlo Nested Rollouts : Coût moyen 0.2200
-Q-Learning : Coût moyen 0.3500
+Baseline : Coût moyen 0.7184
+Monte Carlo : Coût moyen 0.2231
+Monte Carlo Exploration : Coût moyen 0.2482
+Monte Carlo Nested Rollouts : Coût moyen 0.2252
+Q-Learning : Coût moyen 0.3530
 
 === Résultats pour Graphe=50, Densité=0.6, Duration=20 ===
-Baseline : Coût moyen 0.9900
-Monte Carlo : Coût moyen 0.3800
-Monte Carlo Exploration : Coût moyen 0.4100
-Monte Carlo Nested Rollouts : Coût moyen 0.4300
-Q-Learning : Coût moyen 0.3800
+Baseline : Coût moyen 0.9933
+Monte Carlo : Coût moyen 0.3830
+Monte Carlo Exploration : Coût moyen 0.4192
+Monte Carlo Nested Rollouts : Coût moyen 0.4344
+Q-Learning : Coût moyen 0.3832
 
 === Résultats pour Graphe=50, Densité=0.6, Duration=50 ===
-Baseline : Coût moyen 0.4600
-Monte Carlo : Coût moyen 0.1900
-Monte Carlo Exploration : Coût moyen 0.1900
-Monte Carlo Nested Rollouts : Coût moyen 0.1900
-Q-Learning : Coût moyen 0.1900
+Baseline : Coût moyen 0.4633
+Monte Carlo : Coût moyen 0.1933
+Monte Carlo Exploration : Coût moyen 0.1912
+Monte Carlo Nested Rollouts : Coût moyen 0.1942
+Q-Learning : Coût moyen 0.1921
 
 === Résultats pour Graphe=50, Densité=0.6, Duration=100 ===
-Baseline : Coût moyen 0.3000
-Monte Carlo : Coût moyen 0.0400
-Monte Carlo Exploration : Coût moyen 0.0400
-Monte Carlo Nested Rollouts : Coût moyen 0.0400
-Q-Learning : Coût moyen 0.0400
+Baseline : Coût moyen 0.3022
+Monte Carlo : Coût moyen 0.0432
+Monte Carlo Exploration : Coût moyen 0.0443
+Monte Carlo Nested Rollouts : Coût moyen 0.0410
+Q-Learning : Coût moyen 0.0424
 
 === Résultats pour Graphe=100, Densité=0.3, Duration=20 ===
-Baseline : Coût moyen 0.7200
-Monte Carlo : Coût moyen 0.4800
-Monte Carlo Exploration : Coût moyen 0.4800
-Monte Carlo Nested Rollouts : Coût moyen 0.2500
-Q-Learning : Coût moyen 0.5100
+Baseline : Coût moyen 0.7231
+Monte Carlo : Coût moyen 0.4820
+Monte Carlo Exploration : Coût moyen 0.4862
+Monte Carlo Nested Rollouts : Coût moyen 0.2523
+Q-Learning : Coût moyen 0.5121
 
 === Résultats pour Graphe=100, Densité=0.3, Duration=50 ===
-Baseline : Coût moyen 0.8000
-Monte Carlo : Coût moyen 0.2550
-Monte Carlo Exploration : Coût moyen 0.2520
-Monte Carlo Nested Rollouts : Coût moyen 0.2100
-Q-Learning : Coût moyen 0.3600
+Baseline : Coût moyen 0.8034
+Monte Carlo : Coût moyen 0.2583
+Monte Carlo Exploration : Coût moyen 0.2592
+Monte Carlo Nested Rollouts : Coût moyen 0.2182
+Q-Learning : Coût moyen 0.3622
 
 === Résultats pour Graphe=100, Densité=0.3, Duration=100 ===
-Baseline : Coût moyen 0.7200
-Monte Carlo : Coût moyen 0.1700
-Monte Carlo Exploration : Coût moyen 0.1600
-Monte Carlo Nested Rollouts : Coût moyen 0.1300
-Q-Learning : Coût moyen 0.2000
+Baseline : Coût moyen 0.7212
+Monte Carlo : Coût moyen 0.1731
+Monte Carlo Exploration : Coût moyen 0.1684
+Monte Carlo Nested Rollouts : Coût moyen 0.1342
+Q-Learning : Coût moyen 0.2032
 
 === Résultats pour Graphe=100, Densité=0.6, Duration=20 ===
-Baseline : Coût moyen 0.8900
-Monte Carlo : Coût moyen 0.4100
-Monte Carlo Exploration : Coût moyen 0.4700
-Monte Carlo Nested Rollouts : Coût moyen 0.4900
-Q-Learning : Coût moyen 0.4300
+Baseline : Coût moyen 0.8932
+Monte Carlo : Coût moyen 0.4120
+Monte Carlo Exploration : Coût moyen 0.4781
+Monte Carlo Nested Rollouts : Coût moyen 0.4933
+Q-Learning : Coût moyen 0.4331
 
 === Résultats pour Graphe=100, Densité=0.6, Duration=50 ===
-Baseline : Coût moyen 0.8200
-Monte Carlo : Coût moyen 0.2000
-Monte Carlo Exploration : Coût moyen 0.2000
-Monte Carlo Nested Rollouts : Coût moyen 0.3500
-Q-Learning : Coût moyen 0.2800
+Baseline : Coût moyen 0.8232
+Monte Carlo : Coût moyen 0.2034
+Monte Carlo Exploration : Coût moyen 0.2084
+Monte Carlo Nested Rollouts : Coût moyen 0.3534
+Q-Learning : Coût moyen 0.2834
 
 === Résultats pour Graphe=100, Densité=0.6, Duration=100 ===
-Baseline : Coût moyen 0.7400
-Monte Carlo : Coût moyen 0.1400
-Monte Carlo Exploration : Coût moyen 0.1400
-Monte Carlo Nested Rollouts : Coût moyen 0.2500
-Q-Learning : Coût moyen 0.1400
+Baseline : Coût moyen 0.7433
+Monte Carlo : Coût moyen 0.1432
+Monte Carlo Exploration : Coût moyen 0.1444
+Monte Carlo Nested Rollouts : Coût moyen 0.2534
+Q-Learning : Coût moyen 0.1432
 
 === Résultats pour Graphe=200, Densité=0.3, Duration=20 ===
-Baseline : Coût moyen 0.6500
-Monte Carlo : Coût moyen 0.3100
-Monte Carlo Exploration : Coût moyen 0.3400
-Monte Carlo Nested Rollouts : Coût moyen 0.3700
-Q-Learning : Coût moyen 0.4400
+Baseline : Coût moyen 0.6532
+Monte Carlo : Coût moyen 0.3132
+Monte Carlo Exploration : Coût moyen 0.3444
+Monte Carlo Nested Rollouts : Coût moyen 0.3733
+Q-Learning : Coût moyen 0.4434
 
 === Résultats pour Graphe=200, Densité=0.3, Duration=50 ===
-Baseline : Coût moyen 0.9000
-Monte Carlo : Coût moyen 0.2500
-Monte Carlo Exploration : Coût moyen 0.3900
-Monte Carlo Nested Rollouts : Coût moyen 0.3500
-Q-Learning : Coût moyen 0.2600
+Baseline : Coût moyen 0.9043
+Monte Carlo : Coût moyen 0.2534
+Monte Carlo Exploration : Coût moyen 0.3932
+Monte Carlo Nested Rollouts : Coût moyen 0.3532
+Q-Learning : Coût moyen 0.2632
 
 === Résultats pour Graphe=200, Densité=0.3, Duration=100 ===
-Baseline : Coût moyen 0.9000
-Monte Carlo : Coût moyen 0.2500
-Monte Carlo Exploration : Coût moyen 0.3300
-Monte Carlo Nested Rollouts : Coût moyen 0.1600
-Q-Learning : Coût moyen 0.1800
+Baseline : Coût moyen 0.9033
+Monte Carlo : Coût moyen 0.2531
+Monte Carlo Exploration : Coût moyen 0.3343
+Monte Carlo Nested Rollouts : Coût moyen 0.1632
+Q-Learning : Coût moyen 0.1833
 
 === Résultats pour Graphe=200, Densité=0.6, Duration=20 ===
-Baseline : Coût moyen 0.6200
-Monte Carlo : Coût moyen 0.2000
-Monte Carlo Exploration : Coût moyen 0.2700
-Monte Carlo Nested Rollouts : Coût moyen 0.4000
-Q-Learning : Coût moyen 0.3100
+Baseline : Coût moyen 0.6232
+Monte Carlo : Coût moyen 0.2032
+Monte Carlo Exploration : Coût moyen 0.2732
+Monte Carlo Nested Rollouts : Coût moyen 0.4033
+Q-Learning : Coût moyen 0.3133
 
 === Résultats pour Graphe=200, Densité=0.6, Duration=50 ===
-Baseline : Coût moyen 0.4300
-Monte Carlo : Coût moyen 0.0900
-Monte Carlo Exploration : Coût moyen 0.2100
-Monte Carlo Nested Rollouts : Coût moyen 0.3300
-Q-Learning : Coût moyen 0.0600
+Baseline : Coût moyen 0.4333
+Monte Carlo : Coût moyen 0.0934
+Monte Carlo Exploration : Coût moyen 0.2133
+Monte Carlo Nested Rollouts : Coût moyen 0.3333
+Q-Learning : Coût moyen 0.0633
 
 === Résultats pour Graphe=200, Densité=0.6, Duration=100 ===
-Baseline : Coût moyen 0.5700
-Monte Carlo : Coût moyen 0.1300
-Monte Carlo Exploration : Coût moyen 0.1300
-Monte Carlo Nested Rollouts : Coût moyen 0.2900
-Q-Learning : Coût moyen 0.0600
-
+Baseline : Coût moyen 0.5733
+Monte Carlo : Coût moyen 0.1334
+Monte Carlo Exploration : Coût moyen 0.1384
+Monte Carlo Nested Rollouts : Coût moyen 0.2934
+Q-Learning : Coût moyen 0.0632
