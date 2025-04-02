@@ -16,7 +16,7 @@ graph_sizes = [50, 100]
 graph_densities = [0.3, 0.6]
 durations = [5, 10]
 seed = 0
-blackbox_path = "h:/Desktop/pfe/blackBoxx.exe"
+blackbox_path = "h:/Desktop/pfe/blackBox.exe"
 num_graphs = 2
 
 results = []
